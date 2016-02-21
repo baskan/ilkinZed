@@ -1,0 +1,10 @@
+C:\Users\gobek\Desktop\Project Zed\Project Zed\bin\Debug\Project Zed.exe.config
+C:\Users\gobek\Desktop\Project Zed\Project Zed\obj\Debug\Project Zed.csprojResolveAssemblyReference.cache
+C:\Users\gobek\Desktop\Project Zed\Project Zed\bin\Debug\Project Zed.exe
+C:\Users\gobek\Desktop\Project Zed\Project Zed\bin\Debug\Project Zed.pdb
+C:\Users\gobek\Desktop\Project Zed\Project Zed\bin\Debug\EloBuddy.dll
+C:\Users\gobek\Desktop\Project Zed\Project Zed\bin\Debug\EloBuddy.SDK.dll
+C:\Users\gobek\Desktop\Project Zed\Project Zed\bin\Debug\SharpDX.dll
+C:\Users\gobek\Desktop\Project Zed\Project Zed\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gobek\Desktop\Project Zed\Project Zed\obj\Debug\Project Zed.exe
+C:\Users\gobek\Desktop\Project Zed\Project Zed\obj\Debug\Project Zed.pdb

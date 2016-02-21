@@ -1,0 +1,28 @@
+C:\Users\gobek\AppData\Roaming\EloBuddy\Repositories\242DB8D0\Project Zed\Project Zed\bin\Release\Project Zed.exe.config
+C:\Users\gobek\AppData\Roaming\EloBuddy\Repositories\242DB8D0\Project Zed\Project Zed\bin\Release\Project Zed.exe
+C:\Users\gobek\AppData\Roaming\EloBuddy\Repositories\242DB8D0\Project Zed\Project Zed\bin\Release\Project Zed.pdb
+C:\Users\gobek\AppData\Roaming\EloBuddy\Repositories\242DB8D0\Project Zed\Project Zed\bin\Release\EloBuddy.dll
+C:\Users\gobek\AppData\Roaming\EloBuddy\Repositories\242DB8D0\Project Zed\Project Zed\bin\Release\EloBuddy.SDK.dll
+C:\Users\gobek\AppData\Roaming\EloBuddy\Repositories\242DB8D0\Project Zed\Project Zed\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\gobek\AppData\Roaming\EloBuddy\Repositories\242DB8D0\Project Zed\Project Zed\bin\Release\SharpDX.dll
+C:\Users\gobek\AppData\Roaming\EloBuddy\Repositories\242DB8D0\Project Zed\Project Zed\bin\Release\Newtonsoft.Json.dll
+C:\Users\gobek\AppData\Roaming\EloBuddy\Repositories\242DB8D0\Project Zed\Project Zed\obj\Release\Project Zed.csprojResolveAssemblyReference.cache
+C:\Users\gobek\AppData\Roaming\EloBuddy\Repositories\242DB8D0\Project Zed\Project Zed\obj\Release\Project Zed.exe
+C:\Users\gobek\AppData\Roaming\EloBuddy\Repositories\242DB8D0\Project Zed\Project Zed\obj\Release\Project Zed.pdb
+C:\Users\gobek\AppData\Roaming\EloBuddy\Repositories\242DB8D0\Project Zed\Project Zed\bin\Release\mscorlib.dll
+C:\Users\gobek\AppData\Roaming\EloBuddy\Repositories\242DB8D0\Project Zed\Project Zed\bin\Release\normidna.nlp
+C:\Users\gobek\AppData\Roaming\EloBuddy\Repositories\242DB8D0\Project Zed\Project Zed\bin\Release\normnfc.nlp
+C:\Users\gobek\AppData\Roaming\EloBuddy\Repositories\242DB8D0\Project Zed\Project Zed\bin\Release\normnfd.nlp
+C:\Users\gobek\AppData\Roaming\EloBuddy\Repositories\242DB8D0\Project Zed\Project Zed\bin\Release\normnfkc.nlp
+C:\Users\gobek\AppData\Roaming\EloBuddy\Repositories\242DB8D0\Project Zed\Project Zed\bin\Release\normnfkd.nlp
+C:\Users\gobek\Desktop\Project Zed\Project Zed\obj\Release\Project Zed.csprojResolveAssemblyReference.cache
+C:\Users\gobek\Desktop\Project Zed\Project Zed\obj\Release\Project Zed.exe
+C:\Users\gobek\Desktop\Project Zed\Project Zed\bin\Release\Project Zed.exe.config
+C:\Users\gobek\Desktop\Project Zed\Project Zed\bin\Release\Project Zed.exe
+C:\Users\gobek\Desktop\Project Zed\Project Zed\bin\Release\Project Zed.pdb
+C:\Users\gobek\Desktop\Project Zed\Project Zed\bin\Release\EloBuddy.dll
+C:\Users\gobek\Desktop\Project Zed\Project Zed\bin\Release\EloBuddy.SDK.dll
+C:\Users\gobek\Desktop\Project Zed\Project Zed\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\gobek\Desktop\Project Zed\Project Zed\bin\Release\SharpDX.dll
+C:\Users\gobek\Desktop\Project Zed\Project Zed\bin\Release\Newtonsoft.Json.dll
+C:\Users\gobek\Desktop\Project Zed\Project Zed\obj\Release\Project Zed.pdb
